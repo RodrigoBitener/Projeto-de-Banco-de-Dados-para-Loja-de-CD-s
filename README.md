@@ -8,7 +8,7 @@ Este projeto é baseado no curso de MySQL: "Criando e Manipulando Banco de Dados
 
 ![image](https://github.com/RodrigoBitener/Projeto-de-Banco-de-Dados-para-Loja-de-CD-s/assets/111039192/e58826e7-7471-4012-9c07-ee8a0fe69c33)
 
-## Comentário sobre o Diagrama do Projeto
+## Diagrama do Projeto
 
 Este diagrama tem como objetivo facilitar a visualização dos campos relacionados no projeto de banco de dados para uma loja de CD's.
 
