@@ -3,8 +3,8 @@ O projeto visa criar e gerenciar um banco de dados para uma loja de CD's, permit
 
 # Entidades Principais:
 
-** CDs (Títulos) **: Esta entidade armazena informações sobre os CDs disponíveis na loja, incluindo título, preço, quantidade em estoque, gravadora associada e categoria do CD.
-Artistas: Registra os artistas associados aos CDs, permitindo a associação de múltiplos artistas a cada CD.
+**CDs (Títulos)**: Esta entidade armazena informações sobre os CDs disponíveis na loja, incluindo título, preço, quantidade em estoque, gravadora associada e categoria do CD.
+**Artistas**: Registra os artistas associados aos CDs, permitindo a associação de múltiplos artistas a cada CD.
 Gravadoras: Armazena detalhes das gravadoras que produzem os CDs, permitindo o rastreamento dos CDs produzidos por cada gravadora.
 Categorias: Define as categorias ou gêneros dos CDs, ajudando na organização e classificação dos produtos na loja.
 Clientes: Mantém informações sobre os clientes da loja, como nome e endereço.
