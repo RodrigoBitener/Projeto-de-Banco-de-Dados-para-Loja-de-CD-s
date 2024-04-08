@@ -6,6 +6,18 @@ Este projeto é baseado no curso de MySQL: "Criando e Manipulando Banco de Dados
 
 **Nota:** Todos os dados sensíveis, incluindo informações de clientes, pedidos e quaisquer outros dados pessoais, são **fictícios** e foram criados apenas para fins de demonstração e prática.
 
+![image](https://github.com/RodrigoBitener/Projeto-de-Banco-de-Dados-para-Loja-de-CD-s/assets/111039192/e58826e7-7471-4012-9c07-ee8a0fe69c33)
+
+## Comentário sobre o Diagrama do Projeto
+
+Este diagrama tem como objetivo facilitar a visualização dos campos relacionados no projeto de banco de dados para uma loja de CD's.
+
+É possível observar que a tabela de **pedidos** é o principal campo, onde a partir dele se desdobra a relação com outras entidades essenciais, como clientes, títulos (CDs), e outras tabelas relacionadas aos pedidos.
+
+Cada entidade está devidamente conectada, mostrando a integração entre os diferentes aspectos do funcionamento da loja. Por exemplo, os pedidos estão vinculados aos clientes que os fizeram e aos títulos dos CDs solicitados em cada pedido.
+
+Esse diagrama proporciona uma visão clara e organizada da estrutura do banco de dados, ajudando no desenvolvimento, manutenção e compreensão do sistema como um todo.
+
 ## Entidades Principais:
 
 - **CDs (Títulos)**: Esta entidade armazena informações sobre os CDs disponíveis na loja, incluindo título, preço, quantidade em estoque, gravadora associada e categoria do CD.
