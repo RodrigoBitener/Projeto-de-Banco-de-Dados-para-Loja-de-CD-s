@@ -2,6 +2,10 @@
 
 O projeto visa criar e gerenciar um banco de dados para uma loja de CD's, permitindo o armazenamento e recuperação de informações sobre CDs, artistas, clientes, pedidos e outras entidades relacionadas ao funcionamento da loja.
 
+Este projeto é baseado no curso de MySQL: "Criando e Manipulando Banco de Dados" da IMPACTA.
+
+**Nota:** Todos os dados sensíveis, incluindo informações de clientes, pedidos e quaisquer outros dados pessoais, são **fictícios** e foram criados apenas para fins de demonstração e prática.
+
 ## Entidades Principais:
 
 - **CDs (Títulos)**: Esta entidade armazena informações sobre os CDs disponíveis na loja, incluindo título, preço, quantidade em estoque, gravadora associada e categoria do CD.
@@ -30,4 +34,3 @@ O projeto visa criar e gerenciar um banco de dados para uma loja de CD's, permit
 ## Conclusão:
 
 O projeto de banco de dados para uma loja de CD's oferece uma solução abrangente para gerenciar todas as operações relacionadas à venda de CDs, desde o cadastro de produtos até o processamento de pedidos e relatórios de vendas. Com uma estrutura bem definida e funcionalidades principais implementadas, o sistema proporciona maior eficiência e controle sobre as atividades da loja, contribuindo para o sucesso do negócio e satisfação dos clientes.
-
