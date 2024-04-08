@@ -26,7 +26,6 @@ Este projeto é baseado no curso de MySQL: "Criando e Manipulando Banco de Dados
 
 ## Benefícios:
 
-- Automatiza o processo de gerenciamento de inventário, facilitando o controle de estoque e reabastecimento de produtos.
 - Melhora a eficiência operacional, permitindo o processamento mais rápido e preciso de pedidos dos clientes.
 - Fornece insights valiosos sobre o desempenho da loja e preferências dos clientes por meio de relatórios detalhados.
 - Facilita a personalização da experiência do cliente, permitindo recomendações de produtos com base no histórico de compras e preferências individuais.
