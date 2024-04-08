@@ -14,7 +14,7 @@ Este diagrama tem como objetivo facilitar a visualização dos campos relacionad
 
 É possível observar que a tabela de **pedidos** é o principal campo, onde a partir dele se desdobra a relação com outras entidades essenciais, como clientes, títulos (CDs), e outras tabelas relacionadas aos pedidos.
 
-Cada entidade está devidamente conectada, mostrando a integração entre os diferentes aspectos do funcionamento da loja. Por exemplo, os pedidos estão vinculados aos clientes que os fizeram e aos títulos dos CDs solicitados em cada pedido.
+Cada entidade está devidamente conectada, mostrando a integração entre os diferentes aspectos do funcionamento da loja. Por exemplo, os pedidos estão vinculados aos clientes que os fizeram e aos títulos_pedidos dos CDs solicitados em cada pedido.
 
 Esse diagrama proporciona uma visão clara e organizada da estrutura do banco de dados, ajudando no desenvolvimento, manutenção e compreensão do sistema como um todo.
 
