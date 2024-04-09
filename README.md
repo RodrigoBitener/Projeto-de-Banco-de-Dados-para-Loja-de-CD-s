@@ -44,4 +44,4 @@ Esse diagrama proporciona uma visão clara e organizada da estrutura do banco de
 
 ## Conclusão:
 
-O projeto de banco de dados para uma loja de CD's oferece uma solução abrangente para gerenciar todas as operações relacionadas à venda de CDs, desde o cadastro de produtos até o processamento de pedidos e relatórios de vendas. Com uma estrutura bem definida e funcionalidades principais implementadas, o sistema proporciona maior eficiência e controle sobre as atividades da loja, contribuindo para o sucesso do negócio e satisfação dos clientes.
+O projeto de banco de dados para uma loja de CD's oferece uma solução abrangente para gerenciar as operações relacionadas à venda de CDs, desde o cadastro de produtos até o processamento de pedidos e relatórios de vendas. Com uma estrutura bem definida e funcionalidades principais implementadas, o sistema proporciona maior eficiência e controle sobre as atividades da loja, contribuindo para o sucesso do negócio e satisfação dos clientes.
